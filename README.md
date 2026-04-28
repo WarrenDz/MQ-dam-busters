@@ -6,7 +6,7 @@ The story of the daring raid on Germany’s dams in May 1943, exploring 617 Squa
 
 Using ArcGIS StoryMaps and embedded maps created with the [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/) this repo demonstrates an example of a customized scrollytelling application that employs scroll-driven map choreography.
 
-<a href="https://esri.github.io/dam-busters/" target="_blank">View it live</a>
+<a href="https://warrendz.github.io/dam-busters/" target="_blank">View it live</a>
 
 ## Features
 
