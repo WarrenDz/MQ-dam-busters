@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/dam-busters/',
+  base: '/MQ-dam-busters/',
   build: {
     rollupOptions: {
       input: {
